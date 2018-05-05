@@ -4,6 +4,6 @@
 
 My solutions for the JavaScript 30 Day Challenge by [Wes Bos](http://wesbos.com/).
 
-Currently completed 0/30.
+Currently completed 1/30.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
